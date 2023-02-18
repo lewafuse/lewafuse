@@ -8,7 +8,6 @@
 <p dir="auto">
   <a href="https://instagram.com/lewafuse0" rel="nofollow">
     <img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-        <img src="https://camo.githubusercontent.com/7ebc5a2448e32119a01bdae64290fcf67ee83b9f2427894ca50888d342d5dd77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="Stack Overflow" data-canonical-src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a> 
       <a href="https://youtube.com/c/muhendisinblogu" rel="nofollow">
         <img src="https://camo.githubusercontent.com/3c9da2a98062b49d867ccd9ca1d11e7b2ebc1201031ac97eddf42cca8d365b5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f6c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" style="max-width: 100%;"></a>
       </p>
