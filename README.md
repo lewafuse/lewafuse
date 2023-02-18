@@ -58,8 +58,4 @@
 <img src="https://camo.githubusercontent.com/a5bd3640b371c6367720a0e5afb1eb7bf44d89f04b0bcf23bc16d20899518150/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d686576697262656b267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;"></a>
 </p>
 <hr>
-<p dir="auto">
-  <a href="https://visitcount.itsvg.in" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/ed734c0cd2c767924fcb724254295337383dacc37ffac17089f01e9387910462/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d686576697262656b2669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=lewafuse&amp;icon=0&amp;color=0" style="max-width: 100%;"></a>
-  </p>
 </article>
