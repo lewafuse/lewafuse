@@ -48,7 +48,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lewafuse&theme=dark)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lewafuse&repo=lewafuses&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24c4daa318963daf351ec12b04cd90b7aaf6445aa6ca893cccf3739da7814d89/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d686576697262656b267468656d653d6461726b26686964655f626f726465723d66616c7365"></a>
 <br>
