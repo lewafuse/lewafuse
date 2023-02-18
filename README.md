@@ -47,7 +47,8 @@
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lewafuse&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&theme=dar)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&theme=dark)
 
 
 
