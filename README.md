@@ -48,8 +48,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lewafuse&theme=dark)]
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-stats-alpha.vercel.app/api?username=lewafuse&cc=000&tc=fff&ic=fff&bc=000%20Where%20cc%20=%20Card%20Color%20tc%20=%20Text%20Color%20ic%20=%20Icon%20Color%20bc%20=%20Border%20Color">
-</a>
+<img src="https://camo.githubusercontent.com/bdaa31641266b51d88f7f661de2879e454cd098c62e836ec1ac5c6a698da6806/68747470733a2f2f6769746875622d73746174732d616c7068612e76657263656c2e6170702f6170693f757365726e616d653d747568696e70616c2663633d3030302674633d6666662669633d6666662662633d303030" alt="Example" title="Example" data-canonical-src="[https://github-stats-alpha.vercel.app/api?username=tuhinpal&amp;cc=000&amp;tc=fff&amp;ic=fff&amp;bc=000](https://github-stats-alpha.vercel.app/api?username=lewafuse&cc=000&tc=fff&ic=fff&bc=000%20Where%20cc%20=%20Card%20Color%20tc%20=%20Text%20Color%20ic%20=%20Icon%20Color%20bc%20=%20Border%20Color)" style="max-width: 100%;">
+
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24c4daa318963daf351ec12b04cd90b7aaf6445aa6ca893cccf3739da7814d89/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d686576697262656b267468656d653d6461726b26686964655f626f726465723d66616c7365"></a>
 <br>
