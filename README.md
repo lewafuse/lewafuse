@@ -5,21 +5,17 @@
     <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
   </a><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Socials:</h2>
 
-<p dir="auto">
-  <a href="https://instagram.com/lewafuse0" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-      <a href="https://youtube.com/c/muhendisinblogu" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/3c9da2a98062b49d867ccd9ca1d11e7b2ebc1201031ac97eddf42cca8d365b5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f6c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" style="max-width: 100%;"></a>
-      </p>
-
-
+<p dir="auto"><a href="https://instagram.com/lewafuse0" rel="nofollow"><img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a> 
+  
+  <a href="https://youtube.com/@roca200" rel="nofollow"><img src="https://camo.githubusercontent.com/3c9da2a98062b49d867ccd9ca1d11e7b2ebc1201031ac97eddf42cca8d365b5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f6c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" style="max-width: 100%;"></a>
+ </p>
+  
 <h1 dir="auto">
   <a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
       <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-      <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Tech Stack:</h1>
-
-
+  
+  <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Tech Stack:</h1>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
     <img src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
