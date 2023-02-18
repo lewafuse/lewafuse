@@ -49,7 +49,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lewafuse&theme=dark)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 <hr>
 </article>
