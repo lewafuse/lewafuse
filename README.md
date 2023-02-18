@@ -48,8 +48,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lewafuse&theme=dark)
 ![GitHub Streak](https://github-stats-alpha.vercel.app/api?username=lewafuse&cc=000&tc=fff&ic=fff&bc=000%20Where%20cc%20=%20Card%20Color%20tc%20=%20Text%20Color%20ic%20=%20Icon%20Color%20bc%20=%20Border%20Color)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&layout=compact)
 
 
 
