@@ -66,6 +66,11 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/lewafuse/aoi-js-v6.1.1?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/lewafuse/aoi-js-v6.1.1?style=flat-square&labelColor=343b41"/></td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/lewafuse/aoi-js-v6.1.1"><b>Python Toolkit</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lewafuse/lewa-discord-toolkit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lewafuse/lewa-discord-toolkit?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
