@@ -50,6 +50,8 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewafuse&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
+
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -60,17 +62,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Differ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/lewafuse/aoi-js-v6.1.1"><b>Aoi.js Easy Start</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/lewafuse/aoi-js-v6.1.1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/lewafuse/aoi-js-v6.1.1?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
+
+
 
 <hr>
 </article>
